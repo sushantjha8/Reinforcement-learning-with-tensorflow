@@ -100,3 +100,9 @@ In these tutorials for reinforcement learning, it covers from the basic RL algor
          alt="Patreon"
          height=120></a>
 </div>
+<div>
+   <a href="https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287"> for mathematical theory
+    </a>
+    
+
+    
